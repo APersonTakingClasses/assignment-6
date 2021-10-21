@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dessert App</string>
+    <string name="instruction">Select and item below</string>
+
+    <string-array name="sign_array">
+        <item>ASL Letter A</item>
+        <item>ASL Letter B</item>
+        <item>ASL Letter C</item>
+        <item>ASL Letter D</item>
+        <item>ASL Letter E</item>
+        <item>ASL Letter F</item>
+        <item>ASL Letter G</item>
+        <item>ASL Letter H</item>
+        <item>ASL Letter I</item>
+        <item>ASL Letter J</item>
+        <item>ASL Letter K</item>
+        <item>ASL Letter L</item>
+        <item>ASL Letter M</item>
+        <item>ASL Letter N</item>
+        <item>ASL Letter O</item>
+        <item>ASL Letter P</item>
+        <item>ASL Letter Q</item>
+        <item>ASL Letter R</item>
+        <item>ASL Letter S</item>
+        <item>ASL Letter T</item>
+        <item>ASL Letter U</item>
+        <item>ASL Letter V</item>
+        <item>ASL Letter W</item>
+        <item>ASL Letter X</item>
+        <item>ASL Letter Y</item>
+        <item>ASL Letter Z</item>
+    </string-array>
+</resources>
